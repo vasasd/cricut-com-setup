@@ -59,7 +59,7 @@ Downloading the Cricut design space application:-
 **********
 |
 .. image:: cricut-comsetup.jpg
-    :align: right
+    :align: center
     :alt: crciut setup windows
     
 |
